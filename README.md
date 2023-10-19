@@ -1,5 +1,5 @@
 <h2 align="center">🌻 Cris</h2>
-<h3>Técnico superior en administración de sistemas informáticos y redes. Futura desarrolladora e ingeniera de software.</h3>
+<h3>Técnico superior en administración de sistemas informáticos en red. Futura desarrolladora de software.</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/crisuroll" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisuroll" height="20" width="40" /></a>
