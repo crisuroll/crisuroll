@@ -2,8 +2,8 @@
 <h3>Técnico superior en administración de sistemas informáticos y redes. Futura desarrolladora e ingeniera de software.</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/crisuroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisuroll" height="30" width="70" /></a>
-<a href="mailto: cristina.cg9@hotmail.com" target="blank"><img align="center" src="mail.png" alt="crisuroll" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/crisuroll" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisuroll" height="30" width="70" /></a>
+<a href="mailto: cristina.cg9@hotmail.com" target="_blank"><img align="center" src="mail.png" alt="crisuroll" height="40" width="40" /></a>
 <p align = "center"><b>Click en los iconos para contactar</p>
 </p>
 
