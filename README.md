@@ -21,7 +21,7 @@
     <td valign="top">
       <ul>
         <li>📚 I studied network and computer administration, but I'm currently learning multi-platform software development.</li>
-        <li>💻 I'm currently working as a Software and Web Developer.</li>
+        <li>💻 I'm currently working as QA Tester while developing my own freelance projects.</li>
         <li>🔍 Check out my pinned repositories to see my latest work!</li>
       </ul>
     </td>
